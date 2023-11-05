@@ -10,14 +10,14 @@ export const navLinks = [
 export const successStories = [
   {
     image: success2,
-    name: 'Hardik Divyansh',
+    name: 'Soma Kuri',
     position: 'First Place 🥇',
     competition: 'Under-15 National Badminton Championship, 2023',
     location: 'Hyderabad',
   },
   {
     image: success1,
-    name: 'Soma Kuri',
+    name: 'Hardik Divyansh',
     position: 'Second Place 🥈',
     competition: 'Kumite - 50kg Category, CM cup, Dussehra Games, 2023',
     location: 'Mysore',
