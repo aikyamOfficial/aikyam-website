@@ -22,13 +22,14 @@ const About = () => {
         </p>
         <div className="flex gap-10 mt-10 flex-wrap justify-center items-center">
           {aboutContent.map((about) => (
-            <div key={about.name} className="mb-4 ">
+            <div key={about.name} className="mb-4 text-center">
               <img
                 src={about.image}
                 alt={about.name}
-                width={200}
+                // width={200}
+                // height={200}
                 loading="lazy"
-                className="rounded-lg"
+                className="rounded-lg object-cover w-[250px] h-[250px]"
               />
               <p className="mt-2 text-2xl font-bold">{about.name}</p>
               <p className="text-lg leading-8 text-green-500">
