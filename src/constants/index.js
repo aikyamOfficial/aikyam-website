@@ -36,16 +36,16 @@ export const successStories = [
   {
     image: success2,
     name: "Soma Kuri",
-    position: "First Place 🥇",
-    competition: "Under-15 National Badminton Championship, 2023",
-    location: "Hyderabad",
+    position: "Second Place 🥈",
+    competition: "Kumite - 50kg Category, CM cup, Dussehra Games, 2023",
+    location: "Mysuru",
   },
   {
     image: success1,
     name: "Hardik Divyansh",
-    position: "Second Place 🥈",
-    competition: "Kumite - 50kg Category, CM cup, Dussehra Games, 2023",
-    location: "Mysore",
+    position: "First Place 🥇",
+    competition: "Under-15 National Badminton Championship, 2023",
+    location: "Hyderabad",
   },
 ];
 
